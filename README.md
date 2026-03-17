@@ -49,4 +49,5 @@ The project includes a custom-built MATLAB interface (`gui.m`) that allows users
 **Mădălin Gavrilaș** & **David Adelin Man** 
 
 *Technical University of Cluj-Napoca (UTCN)* 
+
 *Faculty of Electronics, Telecommunications and Information Technology (ETTI)*
